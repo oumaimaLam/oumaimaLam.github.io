@@ -10,9 +10,10 @@
 - degree: Bachelor of Science in General Engineering
   uni: Al Akhawayn University
   year: 2013 &mdash; 2018
-  awards:
-    - award: Best graduating capstone project
-  summary: Double concentration Mechanical Engineering & Computer Science Minor Mathematics
+  #awards:
+  #  - award: Best graduating capstone project
+  summary: Double concentration Mechanical Engineering & Computer Science 
+  summary: Minor Mathematics
 
 
 
