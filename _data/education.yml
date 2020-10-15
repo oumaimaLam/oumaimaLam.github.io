@@ -1,10 +1,19 @@
+
+- degree: Master of Science in Mechanical Engineering
+	uni: University of Connecticut
+	year: 2018 &mdash; 2020
+	summary: Thermal and Fluid Sciences
+
+
 # Degree
 - degree: Bachelor of Science in General Engineering
   uni: Al Akhawayn University
   year: 2013 &mdash; 2018
-  awards:
-    - award: Best graduating capstone project
-#  summary: If you had any meaningful roles at college, feel free to write about them here
+#  awards:
+#    - award: Best graduating capstone project
+  summary: Double concentration: Mechanical Engineering & Computer Science
+Minor: Mathematics
+
 
 
 #- degree: High School Diploma
