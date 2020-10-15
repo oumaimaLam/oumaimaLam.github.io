@@ -3,7 +3,7 @@
 - company: University of Connecticut
   position: Research Assistant
   duration: Aug, 2018 &mdash; Present
-  summary: Working in Prof. Georgios Matheou's group on Computational Fluid Mechanics for atmospheric convection	<ul class="resume-item-list"><li>Galilean Invariance in Large Eddy Simulation of Shallow Convection</li>
+  summary: Working in Prof. Georgios Matheou's group on Computational Fluid Mechanics for atmospheric convection
 
 
 # Teaching Assistant
@@ -17,4 +17,11 @@
 - company: Nextronic
   position: Intern
   duration: May, 2017 &mdash; Aug, 2017
-  summary: worked on electronic boards
+  summary: Designed control boards for small-scale modular underwater robots and prepared a learning guide to get started with the company's main product: NextONE
+
+
+# Research Assistant
+- company: Haptics and Robotics Lab &mdash; Bogazici University
+  position: Research Assistant
+  duration: May, 2016 &mdash; Aug, 2016
+  summary: Worked in Prof. Evren Samurs's on the design of a wearable device for prosthetics users that provides haptic feedback through skin stretching as a replacement to naturally occurring human proprioception.
