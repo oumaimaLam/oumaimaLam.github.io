@@ -3,8 +3,8 @@
 - degree: Master of Science in Mechanical Engineering
   uni: University of Connecticut
   year: 2018 &mdash; 2020
-  award: Most likely to succeed
-  summary: Thermal and Fluid Sciences
+  #award: Most likely to succeed
+  summary: Thermal and Fluid Sciences track
 
 # Degree
 - degree: Bachelor of Science in General Engineering
@@ -16,6 +16,11 @@
   
 
 
-
+- degree: Non-degree Seeking
+  uni: Bogazici Univesity
+  year: 2015 
+  #awards:
+  #  - award: Best graduating capstone project
+  summary: Summer term 
 
 
