@@ -2,6 +2,10 @@
 title: "Oumaima Lamaakel"
 description: "Personal Website"
 
+
+future: true
+
+
 # Build settings
 markdown: kramdown
 sass:
