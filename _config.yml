@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Oumaima Lamaakel"
-resume_title:                   "PhD Candidate in Civil & Environmental Engineering"
+resume_title:                   "PhD Candidate"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "oumaima.lamaakel@uconn.edu"
